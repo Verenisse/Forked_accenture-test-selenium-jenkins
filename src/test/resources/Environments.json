@@ -1,0 +1,20 @@
+{	
+	"DEMO": {
+		"GOOGLE": "http://www.google.com",
+		"ACCENTURE_MX": "https://www.accenture.com/mx-es",
+		"PHP": "https://www.phptravels.net/",
+		"STORE": "http://automationpractice.com/index.php"
+	},
+	
+	"SIT": {
+		"GOOGLE": "http://www.google.com",
+		"ACCENTURE_MX": "https://www.accenture.com/mx-es"
+	},
+	
+	"DEV": {
+		"GOOGLE": "http://www.google.com",
+		"ACCENTURE_MX": "https://www.accenture.com/mx-es",
+		"PHP": "https://www.phptravels.net/",
+		"STORE": "http://automationpractice.com/index.php"
+		}
+}
